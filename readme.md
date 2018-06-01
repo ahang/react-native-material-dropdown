@@ -15,7 +15,7 @@
 [![license][license-badge]][license-url]
 [![codeclimate][codeclimate-badge]][codeclimate-url]
 
-Material dropdown with consistent behaviour on iOS and Android
+Material dropdown with consistent behaviour on iOS and Android. Forked from https://github.com/n4kz/react-native-material-dropdown. Adjusting a couple CSS for styling purposes.
 
 ![example][example-url]
 
